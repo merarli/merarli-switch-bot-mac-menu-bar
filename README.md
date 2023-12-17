@@ -1,9 +1,9 @@
-# Nature Remo Mac Menu Bar
+# Switch Bot Mac Menu Bar
 
 ## 概要
 SwitchBot APIを使って温度、湿度、絶対湿度Macのメニューバーに表示します。
 
-<img width="269" alt="スクリーンショット 2021-10-06 15 40 19" src="https://user-images.githubusercontent.com/32351460/136152826-8d7ca325-bc01-48cb-9f7a-591d8a9a83a3.png">
+<img width="269" alt="スクリーンショット 2021-10-06 15 40 19" src="https://github.com/merarli/merarli-switch-bot-mac-menu-bar/assets/32351460/6da64190-98a7-4a97-b664-deacc6eeac1b">
 
 ## TOKEN、DEVICE_IDの取得方法
 https://massa4649.com/switchbot-api-v1p0/
